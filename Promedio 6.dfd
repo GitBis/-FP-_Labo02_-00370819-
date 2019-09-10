@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'PROMEDIO DE 3 NUMEROS'
+5
+1
+8
+n1,n2,n3
+6
+1
+6
+Promas
+12
+(n1+n2+n3)/3
+7
+0
+1
+8
+promas>6
+4
+1
+57
+'Promedio menor a  6  ;     y el resultado es   ',promas 
+13
+4
+1
+56
+'Promedio mayor a  6  ;    y el resultado es    ',promas
+13
+1
