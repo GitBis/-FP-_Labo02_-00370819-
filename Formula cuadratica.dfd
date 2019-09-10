@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'RESUELVE TU ECUACION CUADRATICA'
+4
+1
+32
+'INGRESE LOS COEFICIENTES A,B,C'
+5
+1
+5
+a,b,c
+6
+2
+4
+CUA1
+26
+(-b+sqrt(b^2-4*a*c))/(2*a)
+4
+CUA2
+26
+(-b-sqrt(b^2-4*a*c))/(2*a)
+4
+1
+53
+'La solucion es      X1     ',CUA1,'      X2   ',CUA2
+1
